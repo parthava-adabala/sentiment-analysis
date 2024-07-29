@@ -1,4 +1,4 @@
-Sentiment Analyis on Yelp Reviews - ML model deployment
+Sentiment Analyis on Yelp Reviews
 ===========================
 
 1. With terminal navigate to the root of this repository
